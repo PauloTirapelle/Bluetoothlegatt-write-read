@@ -5,3 +5,4 @@ Only sending string from mobile to hm-10 module, it´s not working well, conecti
 
 
 
+https://github.com/PauloTirapelle/Bluetoothlegatt-write-read.wiki.git
